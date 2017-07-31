@@ -1,0 +1,40 @@
+#Exclude the following files for DataFlex Projects
+####################################
+BU*
+AppHTML/CssStyle/*.gif
+AppHTML/CssThemes
+AppHTML/dfEngine
+AppHTML/Images
+programs/*.exe
+programs/*.dbg
+programs/*.exe.manifest
+programs/*.log
+programs/last working
+programs/*.dll
+programs/*.bak
+programs/*.manifest
+appsrc/*.dep
+appsrc/*.fld
+appsrc/*.pbg
+appsrc/*.pdp
+appsrc/*.pkd
+appsrc/*.prp
+appsrc/*.err
+data/*.dat
+data/*.k*
+data/*.hdr
+data/*.cch
+data/cache
+data/*.log
+ddsrc/*.bak
+idesrc/studiometadata.mtd
+idesrc/workspace.loc
+
+vssver2.scc
+nppbackup
+
+#personal preference
+####################################
+appsrc/*.prn
+idesrc/*.dsk
+ 
